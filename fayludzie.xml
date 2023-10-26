@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.4">
-			<file name="fayludzie.xml" url="https://raw.githubusercontent.com/AuroraLegacy/elements/master/supplements/eberron-rising-from-the-last-war/races/changeling.xml" />
+			<file name="fayludzie.xml" url="https://github.com/Blacksacrlet/Homebrew/blob/main/fayludzie.xml" />
 		</update>
 	</info>	
 	<element name="Fayludzie" type="Race" source="Homebrew" id="ID_DAN_HB_RACE_FAYLUDZIE">
