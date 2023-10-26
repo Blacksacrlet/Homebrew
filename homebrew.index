@@ -9,3 +9,7 @@
 		</update>
 	</info>
 	<files>	
+		<!-- races -->
+		<file name="fayludzie.xml" url="https://github.com/Blacksacrlet/Homebrew/blob/main/fayludzie.xml" />
+	</files>
+</index>
